@@ -26,7 +26,13 @@ cd starter_crud_react
 npm install
 ```
 
-**4. Run React JS front end application**
+**4. Build React JS front end application**
+
+```
+yarn build
+```
+
+**5. Run React JS front end application**
 
 ```
 npm start
